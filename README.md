@@ -19,6 +19,12 @@ You do not need to download any of the code files to play the game. Just follow 
 4. Once it downloads, right click the zip folder and click Extract All to unzip it.
 5. Open up the new folder and just double click KnightEscape.exe to start playing.
 
+## What I am Working on Next
+
+I am still actively working on this project. Here is what is coming soon:
+* More levels with new challenges and obstacles.
+* A proper dedicated download website for the game.
+
 ## Credits
 
 * Built with the Godot Engine.
